@@ -1,0 +1,175 @@
+.hide {
+	display: none !important;
+}
+.float_left
+{
+	text-align: left;
+}
+.float_right{
+	text-align: right;
+}
+.spinner-grow-large{
+	width: 12rem !important;
+	height: 7rem !important;
+}
+.spinner_center{
+	text-align: center !important;
+	margin: auto;
+}
+.product_all_page_img{
+	height: 27vh;
+}
+
+.brand_all_page_img{
+	height: 27vh;
+}
+.card-img-top{
+	width: 100% !important;
+}
+.home_page_img {
+	height: 30vh;
+}
+.color-black{
+	color: black;
+}
+.single-item-img{
+	width: 50vh;
+	height: 30vh;
+}
+.border-none{
+	border: none;
+}
+.lowest_one{
+	background: #31BAC9 !important;
+}
+.lowest_ask{
+	background: #2F9855 !important;
+}
+
+.spinner-grow-small {
+
+    width: 2rem !important;
+    height: 3rem !important;
+
+}
+.align-center{
+	text-align: center !important;
+}
+
+/*Swiper*/
+/*.swiper-container {
+	width: 100%;
+	height: 100vh;
+}
+.swiper-slide {
+	text-align: center;
+	font-size: 18px;
+	background: #fff;
+	/* Center slide text vertically */
+	/*display: -webkit-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+}
+.main-slider .slider-bg-position {
+	background-size: cover!important;
+	background-position: center center!important;
+}
+.main-slider .swiper-button-prev, .main-slider .swiper-button-next {
+	background-image: none!important;
+	color: #fff;
+	width: 50px;
+	height: 50px;
+	border: 1px solid #fff;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+}
+.main-slider h2 {
+	color: #fff;
+	font-size: 54px;
+	line-height: 59px;
+	padding: 0 19%;
+	text-transform: uppercase;
+}
+.main-slider .swiper-pagination-bullet {
+	width: 20px;
+	height: 20px;
+	background: rgba(255,255,255,0.9)
+}
+.main-slider .swiper-pagination-bullet-active {
+	background: #0297ff
+}*/
+
+
+.payment_badge{
+	margin-left: auto;
+	margin-right: 16px; 
+}
+.buy_now_btn{
+	cursor: pointer;
+}
+.sell_now_btn{
+	cursor: pointer;
+}
+.img_payment{
+	cursor: pointer;
+}
+.badge-blue{
+	background: #222b0a91;
+	color: white;
+}
+.color-rate{
+	color: #ddd7d7 !important;
+}
+.sidebar-active{
+	background: #000000 !important;
+}
+.color-black{
+	color:black !important;
+}
+/*** bootstrap modal css for code pin **/
+.come-from-modal.left .modal-dialog,
+.come-from-modal.right .modal-dialog {
+    position: fixed;
+    margin: auto;
+    width: 320px;
+    height: 100%;
+    -webkit-transform: translate3d(0%, 0, 0);
+    -ms-transform: translate3d(0%, 0, 0);
+    -o-transform: translate3d(0%, 0, 0);
+    transform: translate3d(0%, 0, 0);
+}
+
+.come-from-modal.left .modal-content,
+.come-from-modal.right .modal-content {
+    height: 100%;
+    overflow-y: auto;
+    border-radius: 0px;
+}
+
+.come-from-modal.left .modal-body,
+.come-from-modal.right .modal-body {
+    padding: 15px 15px 80px;
+}
+.come-from-modal.right.fade .modal-dialog {
+    right: -320px;
+    -webkit-transition: opacity 0.3s linear, right 0.3s ease-out;
+    -moz-transition: opacity 0.3s linear, right 0.3s ease-out;
+    -o-transition: opacity 0.3s linear, right 0.3s ease-out;
+    transition: opacity 0.3s linear, right 0.3s ease-out;
+}
+
+.come-from-modal.right.fade.in .modal-dialog {
+    right: 0;
+}
+/** End  Code PIN ***/
+ 

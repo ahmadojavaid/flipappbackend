@@ -1,0 +1,22 @@
+.m-t-20{
+	margin-top: 20px !important;
+}
+.set_width{
+	width: 320vh;
+	height: 25vh;
+}
+.pull-right {
+	float: right !important;
+}
+.m-r-5{
+	margin-right: 5px !important;
+}
+.display-none{
+	display: none !important;
+}
+.p-40{
+	padding-left: 10px;
+}
+.hide {
+	display: none;
+}
